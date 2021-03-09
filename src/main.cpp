@@ -1,7 +1,11 @@
 #include <Arduino.h>
 #include <LiquidCrystal_I2C.h>
 #include <DS18B20.h>
-
+/*
+//
+//  Moved to Win10
+//
+*/
 #define FIRMWARE "v1.02fix"
 
 #define WATER_TEMP 275
