@@ -4,7 +4,7 @@
 
 #define FIRMWARE "v1.02fix"
 
-#define WATER_TEMP 275
+#define WATER_TEMP 225
 
 #define UPPER_LIMIT_SW 12
 #define LOWER_LIMIT_SW 11
