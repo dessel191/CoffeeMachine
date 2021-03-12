@@ -2,7 +2,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <DS18B20.h>
 
-#define FIRMWARE "v1.02fix"
+#define FIRMWARE "v1.03"
 
 #define WATER_TEMP 225
 
